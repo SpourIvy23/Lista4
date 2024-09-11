@@ -17,3 +17,18 @@ C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista 4\QT1\build\QT1.deps.
 C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista 4\QT1\build\QT1.runtimeconfig.json
 C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista 4\QT1\build\QT1.dll
 C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista 4\QT1\build\QT1.pdb
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\bin\Debug\net8.0\QT1.exe
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\bin\Debug\net8.0\QT1.deps.json
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\bin\Debug\net8.0\QT1.runtimeconfig.json
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\bin\Debug\net8.0\QT1.dll
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\bin\Debug\net8.0\QT1.pdb
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.AssemblyInfoInputs.cache
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.AssemblyInfo.cs
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.sourcelink.json
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.dll
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\refint\QT1.dll
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.pdb
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\QT1.genruntimeconfig.cache
+C:\Users\Murilo\Desktop\codigos\Lista4\QT1\obj\Debug\net8.0\ref\QT1.dll

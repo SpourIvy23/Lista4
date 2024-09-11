@@ -1,0 +1,15 @@
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\build\QT5.exe
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\build\QT5.deps.json
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\build\QT5.runtimeconfig.json
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\build\QT5.dll
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\build\QT5.pdb
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.AssemblyInfoInputs.cache
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.AssemblyInfo.cs
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.sourcelink.json
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.dll
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\refint\QT5.dll
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.pdb
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\QT5.genruntimeconfig.cache
+C:\Users\Murilo\Desktop\codigos\Lista4\QT5\obj\Debug\net8.0\ref\QT5.dll
